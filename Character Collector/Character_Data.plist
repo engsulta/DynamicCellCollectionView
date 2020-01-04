@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Ant</string>
+		<key>title</key>
+		<string>Red Fire Ant</string>
+		<key>description</key>
+		<string>Not your parents sibling!
+This bug spits burning acid!</string>
+		<key>hitPoints</key>
+		<integer>10</integer>
+		<key>attack</key>
+		<string>Acid</string>
+		<key>damage</key>
+		<string>1-3</string>
+		<key>imgeUrl</key>
+		<string>https://i.pinimg.com/474x/42/cb/c6/42cbc635deefb3f8d48f59518b081bcf.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bear</string>
+		<key>title</key>
+		<string>Obstructed Bear</string>
+		<key>description</key>
+		<string>Does a bear poo in the woods?
+It&apos;s been days for this grumpy guy!</string>
+		<key>hitPoints</key>
+		<integer>50</integer>
+		<key>attack</key>
+		<string>Grumpy Claws</string>
+		<key>damage</key>
+		<string>10-25</string>
+		<key>imageUrl</key>
+		<string>https://www.ramtrucks.com/content/dam/fca-brands/na/ramtrucks/en_us/2020/ram-1500/Gallery/Exterior/2020-DT-Gallery-Exterior-11.jpg.image.2880.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Brain</string>
+		<key>title</key>
+		<string>Zombie Food</string>
+		<key>description</key>
+		<string>Guaranteed to satisfy the most voracious zombie!</string>
+		<key>hitPoints</key>
+		<integer>5</integer>
+		<key>attack</key>
+		<string>Psychic Blast</string>
+		<key>damage</key>
+		<string>10-50</string>
+		<key>imageUrl</key>
+		<string>https://inteng-storage.s3.amazonaws.com/images/DECEMBER/sizes/building_adjust_resize_md.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cat</string>
+		<key>title</key>
+		<string>Sleepy Cat</string>
+		<key>description</key>
+		<string>He&apos;s just not interested.</string>
+		<key>hitPoints</key>
+		<integer>10</integer>
+		<key>attack</key>
+		<string>Purring Snore</string>
+		<key>damage</key>
+		<string>1-5</string>
+		<key>imageUrl</key>
+		<string>https://inteng-storage.s3.amazonaws.com/images/DECEMBER/sizes/fishing_beever_resize_md.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Croc</string>
+		<key>title</key>
+		<string>Daydreaming Crocodile</string>
+		<key>description</key>
+		<string>Constantly stares into the sky!</string>
+		<key>hitPoints</key>
+		<integer>100</integer>
+		<key>attack</key>
+		<string>Hypnotic Daze, Jaw Snap</string>
+		<key>damage</key>
+		<string>5-50</string>
+		<key>imageUrl</key>
+		<string>https://inteng-storage.s3.amazonaws.com/images/DECEMBER/sizes/odeith_sneaker_resize_md.jpg</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dinosaur_1</string>
+		<key>title</key>
+		<string>Armored Rex</string>
+		<key>description</key>
+		<string>Don&apos;t let his tiny arms fool you!
+The rest of him is BIG!</string>
+		<key>hitPoints</key>
+		<integer>250</integer>
+		<key>attack</key>
+		<string>Strong Bite, Jump Kick</string>
+		<key>damage</key>
+		<string>50-100</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dinosaur_2</string>
+		<key>title</key>
+		<string>Stoney Triceratops</string>
+		<key>description</key>
+		<string>Very stubborn!
+He&apos;ll only attack if threatened.</string>
+		<key>hitPoints</key>
+		<integer>500</integer>
+		<key>attack</key>
+		<string>Horn Thrust</string>
+		<key>damage</key>
+		<string>50-250</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dog</string>
+		<key>title</key>
+		<string>Scraps the Dog</string>
+		<key>description</key>
+		<string>Doesn&apos;t like cats, rats, or bats!</string>
+		<key>hitPoints</key>
+		<integer>250</integer>
+		<key>attack</key>
+		<string>Bite</string>
+		<key>damage</key>
+		<string>25-150</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dragon</string>
+		<key>title</key>
+		<string>Red Fire Dragon</string>
+		<key>description</key>
+		<string>A real blast at barbeques!
+Have the fire department
+on stand-by!</string>
+		<key>hitPoints</key>
+		<integer>500</integer>
+		<key>attack</key>
+		<string>Fire Balls</string>
+		<key>damage</key>
+		<string>100-500</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fly</string>
+		<key>title</key>
+		<string>Flying Black Bug</string>
+		<key>description</key>
+		<string>No bugs in this program!</string>
+		<key>hitPoints</key>
+		<integer>5</integer>
+		<key>attack</key>
+		<string>Annoyance</string>
+		<key>damage</key>
+		<string>1-3</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Frog</string>
+		<key>title</key>
+		<string>Toadstool Frog</string>
+		<key>description</key>
+		<string>Best defense against
+the Flying Black Bug!</string>
+		<key>hitPoints</key>
+		<integer>15</integer>
+		<key>attack</key>
+		<string>Tongue Slap</string>
+		<key>damage</key>
+		<string>2-10</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Grandma</string>
+		<key>title</key>
+		<string>Grandma Stella</string>
+		<key>description</key>
+		<string>Defeats zombies with a single swat!</string>
+		<key>hitPoints</key>
+		<integer>25</integer>
+		<key>attack</key>
+		<string>Umbrella Swat/Jab</string>
+		<key>damage</key>
+		<string>5-25</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Koala</string>
+		<key>title</key>
+		<string>Kookie Koala</string>
+		<key>description</key>
+		<string>Distracts his foes with cuteness!</string>
+		<key>hitPoints</key>
+		<integer>40</integer>
+		<key>attack</key>
+		<string>Eucalyptus Burps</string>
+		<key>damage</key>
+		<string>5-20</string>
+	</dict>
+</array>
+</plist>
